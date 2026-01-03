@@ -1,0 +1,21 @@
+
+  "owner": {
+    "username": "klasdkjf"
+  },
+  "records": {
+    "A": {
+      "@": ["121.182.157.176"]
+    },
+    "SRV": [
+      {
+        "service": "_minecraft",
+        "protocol": "_tcp",
+        "name": "@",
+        "priority": 0,
+        "weight": 0,
+        "port": 25565,
+        "target": "psychosis.is-a.dev"
+      }
+    ]
+  }
+}
